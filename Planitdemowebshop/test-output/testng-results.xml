@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43204" started-at="2021-01-17T22:24:56 IST" finished-at="2021-01-17T22:25:39 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43204" started-at="2021-01-17T22:24:56 IST" finished-at="2021-01-17T22:25:39 IST">
+      <class name="org.planitdemowebshop.scripts.Demowebshoplogintest">
+        <test-method status="PASS" signature="initializeWebDriver()[pri:0, instance:org.planitdemowebshop.scripts.Demowebshoplogintest@627551fb]" name="initializeWebDriver" is-config="true" duration-ms="10445" started-at="2021-01-17T22:24:46 IST" finished-at="2021-01-17T22:24:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeWebDriver -->
+        <test-method status="PASS" signature="Planitshoploginclick()[pri:0, instance:org.planitdemowebshop.scripts.Demowebshoplogintest@627551fb]" name="Planitshoploginclick" duration-ms="43125" started-at="2021-01-17T22:24:56 IST" finished-at="2021-01-17T22:25:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Planitshoploginclick -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:org.planitdemowebshop.scripts.Demowebshoplogintest@627551fb]" name="quitDriver" is-config="true" duration-ms="850" started-at="2021-01-17T22:25:39 IST" finished-at="2021-01-17T22:25:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- org.planitdemowebshop.scripts.Demowebshoplogintest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
